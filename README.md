@@ -1,4 +1,4 @@
-# 🎮 Pokédex
+# 🎮 Pokédex - HTML, CSS  e JavaScript
 
 Este projeto é uma Pokédex interativa desenvolvida em HTML, CSS e JavaScript puro, que consome a [PokéAPI](https://pokeapi.co/) para exibir informações sobre diferentes Pokémon. O objetivo é praticar conceitos de manipulação de DOM, consumo de APIs e estilização responsiva.
 
